@@ -1,5 +1,10 @@
 ## Hi there, I'm Tommy! 👋
-![Snake animation](https://github.com/tommyogino/tommyogino/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/tommyogino/tommyogino/blob/output/github-snake-dark.svg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommyogino&show_icons=true&theme=dark&hide=contribs)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommyogino&layout=compact&theme=dark)
 
 <!--
 **tommyogino/tommyogino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
